@@ -2,9 +2,14 @@
 __pycache__/
 *.py[codz]
 *$py.class
+.env
+venv/
+*.pyc
+*.db
 
 # C extensions
 *.so
+
 
 # Distribution / packaging
 .Python
